@@ -1,0 +1,5 @@
+streamlit
+markdown2
+sentence-transformers
+langchain 
+chromadb
