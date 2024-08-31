@@ -1,4 +1,4 @@
-# Text Summarization and QA Application
+# Ask Your File Application
 
 This application allows users to upload documents in various formats (PDF, DOCX, TXT, MD) and receive detailed summaries or answers to specific queries about the content. The application leverages advanced AI models and a local instance of Ollama's LLM for natural language processing tasks.
 
