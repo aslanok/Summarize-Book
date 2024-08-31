@@ -3,8 +3,8 @@
 This application allows users to upload documents in various formats (PDF, DOCX, TXT, MD) and receive detailed summaries or answers to specific queries about the content. The application leverages advanced AI models and a local instance of Ollama's LLM for natural language processing tasks.
 
 <p align="center">
-  <img width="700" alt="ss1" src="https://github.com/user-attachments/assets/bd0acebe-4da9-4aae-ba82-d268e258fdc0">
-  <img width="700" alt="ss2" src="https://github.com/user-attachments/assets/34cc2968-369a-486a-ba3f-d0c7dd015f82">
+  <img width="330" alt="ss1" src="https://github.com/user-attachments/assets/bd0acebe-4da9-4aae-ba82-d268e258fdc0">
+  <img width="330" alt="ss2" src="https://github.com/user-attachments/assets/34cc2968-369a-486a-ba3f-d0c7dd015f82">
 </p>
 
 ## Features
