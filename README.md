@@ -57,7 +57,7 @@ This application allows users to upload documents in various formats (PDF, DOCX,
     - Click the "Generate Answer" button.
     - The application will retrieve relevant sections from the document and generate a concise answer using the local LLM.
 
-## How It Works
+## How It Works 
 
 - **File Processing**: The application reads and processes different file formats, converting the content into plain text.
 - **Text Splitting**: The text is split into smaller chunks using the `RecursiveCharacterTextSplitter` to manage large documents efficiently.
